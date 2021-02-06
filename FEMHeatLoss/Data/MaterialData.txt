@@ -1,0 +1,30 @@
+﻿Tynk Wewnętrzny
+3             Width Point Number
+600.0         Dencity
+1.0           K factor
+1000.0        Specyfic Heat
+Pustak Ceramiczny
+50            Width Point Number
+1100          Dencity
+0.440         K factor
+880           Specyfic Heat
+Wełna mineralna
+24            Width Point Number
+60            Dencity
+0.045         K factor
+750.0         Specyfic Heat
+Szczelina wentylacyjna
+6             Width Point Number
+1.25          Dencity
+0.025         K factor
+1005          Specyfic Heat
+Cegła klinkierowa
+24            Width Point Number
+1900          Dencity
+1.05          K factor
+880           Specyfic Heat
+Styropian
+24            Width Point Number
+20            Dencity
+0.043         K factor
+1460.0        Specyfic Heat

@@ -1,0 +1,13 @@
+﻿0.015         Height:
+0.585         Width:
+4             Height Point Number:
+117           Width Point Number:
+2             Integration Schema Wariant
+150           Alpha
+22			  Initial Temperature
+10            Ambient temperature
+43200         Time
+2.5           d Time
+
+
+

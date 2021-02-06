@@ -1,0 +1,14 @@
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.exe
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.deps.json
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.runtimeconfig.json
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.runtimeconfig.dev.json
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.dll
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\FEMHeatLoss.pdb
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.csprojAssemblyReference.cache
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.dll
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.pdb
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\obj\Debug\netcoreapp3.1\FEMHeatLoss.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Pulpit\Studia\Rok_III\Finite_Elements_Method\FEMHeatLoss\FEMHeatLoss\bin\Debug\netcoreapp3.1\Data\GlobalData.txt
